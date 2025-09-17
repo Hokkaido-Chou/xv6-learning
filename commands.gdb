@@ -110,37 +110,4 @@ n
 p p->name
 s
 s
-p p->name
-n
-p p->name
-u 112
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si
-si 10
-si 10
-si 10
-si 5
-si
-add-symbol-file user/_init
-da
-n
-n
-n
-n
-n
-n
-n
-s
-n
 q
